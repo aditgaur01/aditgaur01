@@ -1,3 +1,1 @@
-- 👋 Hi, I’m Adit Gaur
-- 👀 I’m interested in Web Developement and Python
-- 📫 You can reach me @aditgaur01@gmail.com
+
